@@ -11,7 +11,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kirov7&show_icons=true&theme=dark&count_private=true&hide=issues,contribs)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirov7&theme=dark&layout=compact&hide=javascript,html,CSS,Smarty)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Kirov7&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Kirov7&theme=react-dark" /> </div>
 
 
 - 🌱 I’m currently learning distributed system and the data storage engine

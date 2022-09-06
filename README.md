@@ -1,19 +1,17 @@
-### Hi there 👋
+<div align=center>
+  <img src="http://tva1.sinaimg.cn/large/005Uj3w8ly1h5x2drji75j30er0am0th.jpg"/>
+</div>
+                      
+“We can only see a short distance ahead, but we can see plenty there that needs to be done.”  - Alan Turing
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Kirov7&show_icons=true&theme=dark&count_private=true&hide=issues,contribs)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirov7&theme=dark&layout=compact&hide=javascript,html,CSS,Smarty)
 
 
-**Kirov7/Kirov7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Kirov7&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirov7&theme=dark&layout=compact)
+- 🌱 I’m currently learning distributed system and the data storage engine
+- 👯 I’m looking to collaborate on FayDFS
+- 💬 Ask me about CFC 实验室
+- 📫 How to reach me: crazyfay@qq.com
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 

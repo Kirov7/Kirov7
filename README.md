@@ -18,4 +18,4 @@
 - 💬 Ask me about CQUT CFC 实验室
 - 📫 How to reach me: crazyfay@qq.com
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kirov.README&left_color=green&right_color=red)

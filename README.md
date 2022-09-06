@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning distributed system and the data storage engine
-- 👯 I’m looking to collaborate on FayDFS
+- 👯 I’m looking to collaborate on FayDFS and other projects
 - 💬 Ask me about CFC 实验室
 - 📫 How to reach me: crazyfay@qq.com
 

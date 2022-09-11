@@ -7,10 +7,6 @@
   <img src="./svg/readme-typing-svg.svg">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+homepage!;I+am+Fay;A+man+who+likes+to+dream;Let's+crazy+for+code!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-
 
 > "We can only see a short distance ahead, but we can see plenty there that needs to be done."  - Alan Turing
 

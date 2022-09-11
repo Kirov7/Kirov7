@@ -1,7 +1,7 @@
+                 
 <div align=center>
-  <img src="http://tva1.sinaimg.cn/large/005Uj3w8ly1h5x2o1pdulj30er064wf4.jpg"/>
+  <img src="./img/CrazyFay.png"/>
 </div>
-                      
 
 <p align="center">
   <img src="./svg/readme-typing-svg.svg">

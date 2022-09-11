@@ -2,8 +2,9 @@
   <img src="http://tva1.sinaimg.cn/large/005Uj3w8ly1h5x2o1pdulj30er064wf4.jpg"/>
 </div>
                       
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+homepage!;I+am+Fay;A+man+who+likes+to+dream;Let's+crazy+for+code!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="./svg/readme-typing-svg.svg">
 </p>
 
 > "We can only see a short distance ahead, but we can see plenty there that needs to be done."  - Alan Turing

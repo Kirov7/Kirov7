@@ -19,15 +19,15 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Kirov7&theme=react-dark" />
 </div>
 
+<p align="center">
+  <img  style="border: 5px solid red " src="https://raw.githubusercontent.com/Kirov7/Kirov7/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only">
+</p>
 
 - 🌱 I’m currently learning distributed system and the data storage engine
 - 👯 I’m looking to collaborate on FayDFS and other projects
 - 💬 Ask me about CQUT CFC 实验室
 - 📫 How to reach me: crazyfay@qq.com
 
-<p align="center">
-  <img  style="border: 5px solid red " src="https://raw.githubusercontent.com/Kirov7/Kirov7/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only">
-</p>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kirov7.README&left_color=green&right_color=gray)

@@ -8,7 +8,7 @@
 </p>
 
 
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."  - Alan Turing      
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."  - Alan Turing     
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kirov7&show_icons=true&theme=dark&count_private=true&hide=issues,contribs)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirov7&theme=dark&layout=compact&hide=javascript,html,CSS,Smarty)

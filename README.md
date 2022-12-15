@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Kirov7&theme=react-dark" />
 </div>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kirov7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img  style="border: 5px solid red " src="https://raw.githubusercontent.com/Kirov7/Kirov7/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only">
 </p>

@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kirov7&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kirov7&theme=react-dark"/>
 </div>
 
 <p align="center">

@@ -24,7 +24,7 @@
 </p>
 
 - 🌱 I’m currently learning distributed system and the data storage engine
-- 👯 I’m looking to collaborate on FayKV and other projects
+- 👯 I’m looking to collaborate on CouloyDB and other projects
 - 💬 Ask me about CQUT CFC Studio
 - 📫 How to reach me: crazyfay@qq.com  
 
